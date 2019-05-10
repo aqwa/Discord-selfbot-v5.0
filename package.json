@@ -1,0 +1,25 @@
+{
+  "name": "selfbot",
+  "version": "2.5",
+  "description": "",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.8.5",
+    "figlet": "^1.2.1",
+    "fs": "0.0.1-security",
+    "os": "^0.1.1",
+    "physical-cpu-count": "^2.0.0",
+    "save": "^2.3.3",
+    "speedtest-net": "^1.5.1",
+    "systeminformation": "^4.1.6"
+  }
+}

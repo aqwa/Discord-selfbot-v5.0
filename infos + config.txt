@@ -1,0 +1,33 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+INSTALLATION
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+1. Vous devez disposer de nodejs pour démarrer le bot.
+> https://nodejs.org/fr/
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+CONFIGURATION
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+1. Extraire tout les fichiers dans le même dossier.
+2. Exécuter le fichier "1. installation-modules".
+3. Configurer le fichier "config.json".
+4. Exécuter le fichier "start" pour démarrer le Selfbot.
+5. Pour à afficher toute les commandes il vous suffit de vous mentionner.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+DEBUG
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Si le bot ne se lance pas :
+> Vérifiez de bien avoir tout les fichiers dans le même dossier.
+> Si l'erreur est "Cannot find module "nom du module"" supprimez le fichier "node_modules" et refaites l'étape 2.
+> Vérifiez de ne pas avoir un fichier.
+> Si une erreur pérsiste contactez moi.
+> Si vous changez votre mot de passe, votre token changera aussi, me contacter si c'est le cas.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+CUSTOMISATION
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Vous pouvez customiser le selfbot comme vous le souhaiter en changeant le style, prefix, ext...
+1. Pour modifier le help menu il vous suffit de faire la commande "helpstyle".
+> Il y a 4 menu différents et vous pouvez les sélectionner avec 1, 2, 3 et 4.
+> Exemple : helpstyle 3 ( si votre prefix est "!" la commande sera "!helpstyle 3".
+2. Si vous désirez plus d'aide pour configurer le selfbot contactez moi.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+> Mon psoeudo : ChildsPR3D4T0R#4525
+> Serveur : https://discord.gg/TaQpMXJ
