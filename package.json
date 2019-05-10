@@ -20,6 +20,6 @@
     "physical-cpu-count": "^2.0.0",
     "save": "^2.3.3",
     "speedtest-net": "^1.5.1",
-    "systeminformation": "^4.1.6"
+    "systeminformation": "^4.3.0"
   }
 }
