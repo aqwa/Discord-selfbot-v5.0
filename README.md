@@ -1,8 +1,8 @@
 # Discord selfbot v2.7
 Selfbot complet et personnalisable.
 
-![Launcher-image](https://github.com/aqwa/Discord-selfbot-v2.7/blob/master/Launcher-image.png)
+![Launcher-image](https://github.com/aqwa/-/blob/master/Console-image.png)
 
-![Console%20image.png](https://github.com/aqwa/Discord-selfbot-v2.7/blob/master/Console%20image.png)
+![Console-image.png](https://github.com/aqwa/-/blob/master/Help-image.png)
 
-![Help%20image.png](https://github.com/aqwa/Discord-selfbot-v2.7/blob/master/Help%20image.png)
+![Help-image.png](https://github.com/aqwa/-/blob/master/Launcher-image.png)
