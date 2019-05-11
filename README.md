@@ -1,4 +1,4 @@
-# Discord-selfbot-v2.7
+# Discord selfbot v2.7
 Selfbot complet et personnalisable.
 
 ![Launcher%20image](https://github.com/aqwa/Discord-selfbot-v2.6/blob/master/Launcher%20image.png)
