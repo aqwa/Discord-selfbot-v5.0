@@ -1,4 +1,4 @@
-# Discord selfbot v2.9
+# Discord selfbot v3.0
 Selfbot complet et personnalisable.
 
 ![Launcher-image](https://github.com/aqwa/-/blob/master/Launcher-image.png)
