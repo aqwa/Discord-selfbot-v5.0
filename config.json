@@ -1,22 +1,25 @@
 {
-    "helpstyle":"",
-    "prefix":"",
-    "couleur":"",
-    "token":"",
-    "twitch":"PR3D4T0R",
-    "TimePresence":"10000",
-    "multipresence":[
-        "phrase 1",
-        "Phrase 1"
+    "helpstyle": "",
+    "prefix": "",
+    "couleur": "",
+    "token": "",
+    "twitch": "PR3D4T0R",
+    "TimePresence": "10000",
+    "multipresence": [
+      "phrase 1",
+      "phrase 2"
     ],
-    "multipresenceType":"",
-    "startPresenceON":"OFF",
-    "activitéON":"",
-    "typeON":"",
-    "usermods":[
-        "id 1",
-        "id 2"
+    "multipresenceType": "",
+    "startPresenceON": "OFF",
+    "activitéON": "",
+    "typeON": "",
+    "usermods": [
+      "id 1",
+      "id 2"
     ],
-    "autoreactusers":[],
-    "emojis":["💰","🐵","🙈","🙉","🙊","👳","🇮🇱","🇿🇼","🇿🇲","🇿🇦","🇹🇷","🤡","🤤","🍭","👶","👴","✡","🙃","😎","😂","😽","👵","🎅","🕵","🤵","👮","👷","⭐","🚿","😹","🍬"]
-}
+    "autoreactusers": [
+      "id 1",
+      "id 2"
+    ],
+    "emojis": ["💰","🐵","🙈","🙉","🙊","👳","🇮🇱","🇿🇼","🇿🇲","🇿🇦","🇹🇷","🤡","🤤","🍭","👶","👴","✡","🙃","😎","😂","😽","👵","🎅","🕵","🤵","👮","👷","⭐","🚿","😹","🍬"]
+  }
