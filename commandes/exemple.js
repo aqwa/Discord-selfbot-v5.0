@@ -19,7 +19,7 @@ exports.run = (self, message, args) => {
 	Exembed.setDescription("commsa");
 
 	message.channel.send(Exembed);
-}
+};
 
 var desc = "description commande exemple";
 exports.desc = desc;
