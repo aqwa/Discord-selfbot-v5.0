@@ -12,3 +12,8 @@ start "" /B npm install --save figlet
 start "" /B npm install --save chalk-animation
 start "" /B npm install --save enmap
 start "" /B npm install --save node-google-translate-skidz
+start "" /B npm install --save readline
+start "" /B npm install --save request
+start "" /B npm install --save simple-youtube-api
+start "" /B npm install --save ytdl-core
+start "" /B npm install --save ffmpeg-binaries
