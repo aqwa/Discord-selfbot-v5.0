@@ -6,6 +6,6 @@ Selfbot complet et personnalisable.
 
 ![Console-image.png](https://github.com/aqwa/-/blob/master/Console-image.png)
 
-![Help-image.png](https://github.com/aqwa/-/blob/master/Img-commandes.png)
+![Help-image.png](https://github.com/aqwa/-/blob/master/Image-commandes.png)
 
 ![Help-image2.png](https://github.com/aqwa/-/blob/master/Image-commandes-2.png)
