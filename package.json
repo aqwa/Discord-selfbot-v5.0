@@ -1,6 +1,6 @@
 {
   "name": "selfbot",
-  "version": "3.8",
+  "version": "3.9",
   "description": "",
   "main": "selfbot.js",
   "scripts": {
