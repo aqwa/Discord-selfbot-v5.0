@@ -8,6 +8,8 @@ Selfbot complet et personnalisable.
 - Téléchargement automatique d'un fichier si manquant
 - Téléchargement automatique des mises à jours
 
+[Discord](https://discord.gg/hmW95bK)
+
 ![LauncherImage.png](https://github.com/aqwa/-/blob/master/LauncherImage.png)
 
 ![Console-image.png](https://github.com/aqwa/-/blob/master/Console-image.png)
