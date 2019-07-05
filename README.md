@@ -2,6 +2,12 @@
 
 Selfbot complet et personnalisable.
 
+- Configuration très simple et entièrement disponible avec les commandes
+- Launcher complet disponible pour windows
+- Prise en charge de toute sorte d'erreurs
+- Téléchargement automatique d'un fichier si manquant
+- Téléchargement automatique des mises à jours
+
 ![LauncherImage.png](https://github.com/aqwa/-/blob/master/LauncherImage.png)
 
 ![Console-image.png](https://github.com/aqwa/-/blob/master/Console-image.png)
