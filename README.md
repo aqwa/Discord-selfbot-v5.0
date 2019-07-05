@@ -5,6 +5,7 @@ Selfbot complet et personnalisable. [Discord](https://discord.gg/hmW95bK)
 - Configuration très simple et entièrement disponible avec les commandes depuis le self
 - Launcher complet disponible pour une configuration plus aisé
 - Prise en charge de toute sorte d'erreurs
+- Mode sans-échecs
 - Téléchargement automatique d'un fichier si manquant
 - Téléchargement automatique des mises à jours
 
