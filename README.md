@@ -2,8 +2,8 @@
 
 Selfbot complet et personnalisable.
 
-- Configuration très simple et entièrement disponible avec les commandes
-- Launcher complet disponible pour windows
+- Configuration très simple et entièrement disponible avec les commandes depuis le self
+- Launcher complet disponible pour une configuration plus aisé
 - Prise en charge de toute sorte d'erreurs
 - Téléchargement automatique d'un fichier si manquant
 - Téléchargement automatique des mises à jours
