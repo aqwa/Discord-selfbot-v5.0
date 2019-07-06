@@ -7,9 +7,9 @@ exports.run = (self, message, args) => {
         return;
     }
 
-    // Suppression du message si vous en êtes l'auteur
-	if (message.author.id === self.user.id) { 			
-		message.delete(); 		
+    // Suppression le message si possible
+    if (message.deletable === true) { 			
+	message.delete();	
     }
     
     // Réponse de la commande
