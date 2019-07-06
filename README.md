@@ -1,7 +1,6 @@
 # Discord selfbot v4.2 - [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8780285f638a49fe9adba64a32c88b6b)](https://www.codacy.com/app/aqwa/Discord-selfbot-v3.4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aqwa/Discord-selfbot-v3.4&amp;utm_campaign=Badge_Grade) 
 
-Selfbot complet et personnalisable. [Discord](https://discord.gg/hmW95bK)
-
+##Selfbot complet et personnalisable. [Discord](https://discord.gg/hmW95bK)
 - Plus d'une centaine de commandes disponibles
 - Configuration très simple et entièrement disponible avec les commandes depuis le self
 - Launcher complet disponible pour une configuration plus aisé
