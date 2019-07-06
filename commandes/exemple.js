@@ -9,7 +9,7 @@ exports.run = (self, message, args) => {
 		return;
 	}
 	
-	// Suppression du message si vous en êtes l'auteur
+	// Suppression le message si possible
 	if (message.deletable === true) { 			
 		message.delete();	
 	}
