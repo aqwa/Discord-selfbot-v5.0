@@ -11,9 +11,9 @@ Selfbot complet et personnalisable. [Discord](https://discord.gg/hmW95bK)
 
 ![LauncherImage.png](https://github.com/aqwa/-/blob/master/LauncherImage.png)
 
-![Console-image.png](https://github.com/aqwa/-/blob/master/image_console.png)
+![Console-image.png](https://github.com/aqwa/-/blob/master/console_image.png)
 
-![Help-image.png](https://github.com/aqwa/-/blob/master/image_commandes.png)
+![Help-image.png](https://github.com/aqwa/-/blob/master/commandes_image.png)
 
 ![Help-image3.png](https://github.com/aqwa/-/blob/master/commandes-3.png)
 
