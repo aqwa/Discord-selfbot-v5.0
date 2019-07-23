@@ -22,5 +22,3 @@ Selfbot complet et personnalisable. [Discord](https://discord.gg/hmW95bK)
 
 [download-badge]: https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Selfbot-brightgreen.svg
 [download-link]: https://github.com/aqwa/Discord-selfbot-v4.6/archive/master.zip
-
-[![HitCount](http://hits.dwyl.io/aqwa/https://githubcom/aqwa/Discord-selfbot-v46.svg)](http://hits.dwyl.io/aqwa/https://githubcom/aqwa/Discord-selfbot-v46)
