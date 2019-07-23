@@ -1,4 +1,4 @@
-# R34L N1GG3R selfbot v4.6 - [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8780285f638a49fe9adba64a32c88b6b)](https://www.codacy.com/app/aqwa/Discord-selfbot-v3.4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aqwa/Discord-selfbot-v3.4&amp;utm_campaign=Badge_Grade) [![https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Self-brightgreen.svg](https://github.com/aqwa/Discord-selfbot-v4.6/archive/master.zip)]
+# R34L N1GG3R selfbot v4.6 - [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8780285f638a49fe9adba64a32c88b6b)](https://www.codacy.com/app/aqwa/Discord-selfbot-v3.4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aqwa/Discord-selfbot-v3.4&amp;utm_campaign=Badge_Grade) [![ez](https://github.com/aqwa/Discord-selfbot-v4.6/archive/master.zip)](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Self-brightgreen.svg)
 
 Selfbot complet et personnalisable. [Discord](https://discord.gg/hmW95bK)
 *   Configuration automatique
