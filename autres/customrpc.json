@@ -1,23 +1,23 @@
-
 [
     {
-        "name": "Nom du jeu 1",
-        "details": "1 text",
-        "state": "2 text",
-        "assets": {
-            "large_image": "443127594037018634",
-            "small_image": "443231156620754945",
-            "small_text": "Text de la petit image"
-        }
+        "nom": "Nom du jeu 1",
+        "text1": "1 text",
+        "text2": "2 text",
+        "application_id": "432980957394370572",
+        "large_image_id": "443127594037018634",
+        "large_text": "ez",
+        "small_image_id": "443231156620754945",
+        "small_text": "Text de la petit image",
+        "size": [1, 4]
     },
     {
-        "name": "Nom du jeu 2",
-        "details": "1 text",
-        "state": "2 text",
-        "assets": {
-            "large_image": "443127594037018634",
-            "small_image": "443231156620754945",
-            "small_text": "Text de la petit image"
-        }
+        "nom": "Nom du jeu 2",
+        "text1": "1 text",
+        "text2": "2 text",
+        "large_image_id": "443127594037018634",
+        "large_text": "ez",
+        "small_image_id": "443231156620754945",
+        "small_text": "Text de la petit image",
+        "size": [1, 50]
     }
 ]
