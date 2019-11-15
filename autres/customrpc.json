@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "Nom du jeu 1",
+        "details": "1 text",
+        "state": "2 text",
+        "assets": {
+            "large_image": "443127594037018634",
+            "small_image": "443231156620754945",
+            "small_text": "Text de la petit image"
+        }
+    },
+    {
+        "name": "Nom du jeu 2",
+        "details": "1 text",
+        "state": "2 text",
+        "assets": {
+            "large_image": "443127594037018634",
+            "small_image": "443231156620754945",
+            "small_text": "Text de la petit image"
+        }
+    }
+]
