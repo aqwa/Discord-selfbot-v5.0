@@ -13,7 +13,7 @@ Selfbot complet et personnalisable. [Discord](https://discord.gg/sTG3Qe4)
 
 ![LauncherImage.png](https://github.com/aqwa/-/blob/master/LauncherImage.png)
 
-![Console-image.png](https://github.com/aqwa/-/blob/master/console_image.png)
+![Console-image.png](https://github.com/aqwa/-/blob/master/console-img.png)
 
 ![Help-image.png](https://github.com/aqwa/-/blob/master/commandes_img.png)
 
