@@ -1,6 +1,6 @@
 {
   "name": "selfbot",
-  "version": "4.9",
+  "version": "5.0",
   "description": "",
   "main": "selfbot.js",
   "scripts": {
@@ -9,15 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.2",
-    "cpu-stat": "^2.0.1",
-    "discord.js": "^11.4.2",
-    "enmap": "^4.8.5",
-    "figlet": "^1.2.1",
-    "fs": "0.0.1-security",
-    "os": "^0.1.1",
-    "physical-cpu-count": "^2.0.0",
-    "speedtest-net": "^1.5.1",
-    "systeminformation": "^4.4.1"
+    "discord.js": "^11.6.4"
   }
 }
