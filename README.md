@@ -27,7 +27,7 @@
 
 ## Installation
 
-- Avant tout vous aurez besoin de <a href="https://nodejs.org/fr/" target="_blank">ici</a>.
+- Avant tout vous aurez besoin de <a href="https://nodejs.org/fr/" target="_blank">nodejs</a>.
 
 ### Windows :
 
